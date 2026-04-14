@@ -1,5 +1,5 @@
 # FedNCA - FedNCA enables Democratic Medical AI
-This is the official implementation of our paper **FedNCA enables Democratic Medical AI** submitted to the Medical Image Analysis Journal.  
+This is the official implementation of our paper **FedNCA enables Democratic Medical AI** submitted to the IEEE Transactions on Medical Imaging journal.  
 Mirko Konstantin<sup>\*</sup>, Nick Lemke<sup>\*</sup>, John Kalkhof, Henry John Krumb, Jonathan Stieber, Marco Lorenzi, Anirban Mukhopadhyay  
 <sup>\*</sup> Equal Contribution
 
